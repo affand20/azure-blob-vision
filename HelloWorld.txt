@@ -1,1 +1,1 @@
-Hello Azure!
+Hello World from Azure Blob Storage :)
